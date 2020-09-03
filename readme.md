@@ -1,12 +1,8 @@
-readme
-
-TEST velocità:
+# TEST velocità
 https://obs.ninja/speedtest
 
-
-
 # Relatore
-Aprire i seguenti 2 link in 2 diversi tab nel browser (Possibilmente Chrome) 
+Aprire i seguenti 2 link in 2 diversi tab nel browser
 
 ## Link condivisione webcam relatore
 https://obs.ninja/?push=esc_live_webcam_relatore&height=1920&width=1080&framerate=30&nopreview&autostart&cleanoutput&hideheader&webcam
@@ -15,6 +11,7 @@ https://obs.ninja/?push=esc_live_webcam_relatore&height=1920&width=1080&framerat
 https://obs.ninja/?push=esc_live_screenshare_relatore&height=1920&width=1080&framerate=30&nopreview&autostart&cleanoutput&hideheader&screenshare
 
 # Ospite 1
+Aprire i seguenti 2 link in 2 diversi tab nel browser
 
 ## Link condivisione webcam ospite 1
 https://obs.ninja/?push=esc_live_webcam_ospite_1height=1920&width=1080&framerate=30&nopreview&autostart&cleanoutput&hideheader&webcam
@@ -22,9 +19,10 @@ https://obs.ninja/?push=esc_live_webcam_ospite_1height=1920&width=1080&framerate
 ## Link condivisione schermo ospite 1
 https://obs.ninja/?push=esc_live_screenshare_ospite_1&height=1920&width=1080&framerate=30&nopreview&autostart&cleanoutput&hideheader&screenshare
 
-# Ospite 1
+# Ospite 2
+Aprire i seguenti 2 link in 2 diversi tab nel browser
 
-## Link condivisione webcam ospite 1
+## Link condivisione webcam ospite 2
 https://obs.ninja/?push=esc_live_webcam_ospite_2height=1920&width=1080&framerate=30&nopreview&autostart&cleanoutput&hideheader&webcam
 
 ## Link condivisione schermo ospite 2
