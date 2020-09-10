@@ -1,3 +1,8 @@
+## Legenda:
+OK = Video editato, con risultato ottimo
+FAIL = Video non editabile, da rifare
+SKIP = Talk saltato
+
 # Giovedì 3 settembre
 
 | STATO | CODICE | INIZIO | FINE  | TITOLO                                                               | RELATORE                            |
