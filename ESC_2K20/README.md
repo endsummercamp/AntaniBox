@@ -2,6 +2,8 @@
 
 OK = Video pubblicabile
 
+VV = Da verificare nella sua interezza, ma controllato a salti sembra accettabile
+
 FAIL = Video da rifare
 
 SKIP = Talk saltato
@@ -10,11 +12,11 @@ SKIP = Talk saltato
 
 | STATO | CODICE | INIZIO | FINE  | TITOLO                                                               | RELATORE                            |
 |-------|--------|--------|-------|----------------------------------------------------------------------|-------------------------------------|
-|       | 20T07  | 21:00  | 21:30 | Hack the Media                                                       | Carola Frediani                     |
-|       | 20T04  | 21:30  | 22:00 | Nextcloud, Collabora e Lean Office                                   | Francesco "cix" De Marchi           |
+| VV    | 20T07  | 21:00  | 21:30 | Hack the Media                                                       | Carola Frediani                     |
+| VV    | 20T04  | 21:30  | 22:00 | Nextcloud, Collabora e Lean Office                                   | Francesco "cix" De Marchi           |
 |       | 20T17  | 22:00  | 22:30 | Un altro Linux Day                                                   | Roberto "madbob" Guido              |
-|       | 20T08  | 22:30  | 23:00 | Reverse Engineering of an advanced Malware protection                | Antonio "s4tan" Parata              |
-|       | 20T05  | 23:00  | 23:30 | Abusing JavaScript to exfiltrate data                                | Luigi Gubello                       |
+| FAIL  | 20T08  | 22:30  | 23:00 | Reverse Engineering of an advanced Malware protection                | Antonio "s4tan" Parata              |
+| FAIL  | 20T05  | 23:00  | 23:30 | Abusing JavaScript to exfiltrate data                                | Luigi Gubello                       |
 | FAIL  | 20T15  | 23:30  | 00:00 | Il multimediale su openSUSE                                          | Ivo "Ermejo" Grimaldi               |
 
 
