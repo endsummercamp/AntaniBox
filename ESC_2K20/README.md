@@ -46,7 +46,7 @@ SKIP = Talk saltato
 |       |        |        |       |                                                                      |                                     |
 | OK    | WOOT2  | 17:00  | 18:00 | Hong Kong Stories                                                    | Giovanni "venetanji" Lion           |
 | OK    | WOOT3  | 18:00  | 19:00 | La mia esperienza con Maltego e CaseFile                             | Claudio "CoD" Canavese              |
-|       | WOOT4  | 19:00  | 20:00 | La trappola del Business Plan: perché una buona pianificazione...    | Stefano Schiavo                     |
+| OK    | WOOT4  | 19:00  | 20:00 | La trappola del Business Plan: perché una buona pianificazione...    | Stefano Schiavo                     |
 |       |        |        |       |                                                                      |                                     |
 | FAIL  | 20T10  | 21:00  | 21:30 | Il fattore umano tra procedure e tecnologie                          | Yvette "vodka" Agostini             |
 |       | 20T11  | 21:30  | 22:00 | Libreoffice 7.0                                                      | Italo Vignoli                       |
