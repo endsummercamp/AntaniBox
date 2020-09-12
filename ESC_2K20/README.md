@@ -38,7 +38,7 @@ SKIP = Talk saltato
 | STATO | CODICE | INIZIO | FINE  | TITOLO                                                               | RELATORE                            |
 |-------|--------|--------|-------|----------------------------------------------------------------------|-------------------------------------|
 | SKIP  | 20T21  | 14:00  | 14:30 | Introduction to Machine Learning with PyTorch                        | Cesare Montresor                    |
-|       | 20T24  | 14:30  | 15:00 | Disimpara a saldare grazie ai cinesi                                 | Mastro Gippo                        |
+| OK    | 20T24  | 14:30  | 15:00 | Disimpara a saldare grazie ai cinesi                                 | Mastro Gippo                        |
 |       | 20T23  | 15:00  | 15:30 | La disclosure policy nella Pubblica Amministrazione                  | Umberto Rosini                      |
 |       | 20T22  | 15:30  | 16:00 | Esperienze fra comunità open source e formazione in BIG DIVE         | Stefania Delprete                   |
 | FAIL  | 20T01  | 16:00  | 16:30 | Prendiamo una Nave Porta Container                                   | Fabio "FVZ" Cazzin                  |
