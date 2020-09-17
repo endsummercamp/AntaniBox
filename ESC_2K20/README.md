@@ -26,7 +26,7 @@ SKIP = Talk saltato
 |-------|--------|--------|--------|-------|----------------------------------------------------------------------|-------------------------------------|
 |       |        | WOOT1  | 18:00  | 19:00 | A Settembre Ritorno in Palestra                                      | Alvise Giacomazzi e Luca Pellegrini |
 |       |        |        |        |       |                                                                      |                                     |
-|       |        | 20T02  | 21:00  | 21:30 | "Vota i dati"                                                        | Luca Corsato                        |
+| OK    |        | 20T02  | 21:00  | 21:30 | "Vota i dati"                                                        | Luca Corsato                        |
 |       |        | 20T20  | 21:30  | 22:00 | X: il collegamento tra Openstreetmap e le analisi di reti, in Python | Fabio Lamanna                       |
 |       |        | 20T19  | 22:00  | 22:30 | Hardware e Software per Machine Learning                             | Davide Caminati                     |
 |       |        | 20T14  | 22:30  | 23:00 | Achieve Pareto Principle in secure code review, or die trying        | Sandro "guly" Zaccarini             |                                     |       |        | 20T03  | 23:00  | 23:30 | Interrogare i linked open data (e Wikidata) con SPARQL               | Lorenzo Losa                        |
