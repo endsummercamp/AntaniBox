@@ -50,9 +50,9 @@ SKIP = Talk saltato
 | OK    | OK     | WOOT4  | 19:00  | 20:00 | La trappola del Business Plan: perché una buona pianificazione...    | Stefano Schiavo                     |
 |       |        |        |        |       |                                                                      |                                     |
 | FAIL  |        | 20T10  | 21:00  | 21:30 | Il fattore umano tra procedure e tecnologie                          | Yvette "vodka" Agostini             |
-| OK    |        | 20T11  | 21:30  | 22:00 | Libreoffice 7.0                                                      | Italo Vignoli                       |
+| OK    | OK     | 20T11  | 21:30  | 22:00 | Libreoffice 7.0                                                      | Italo Vignoli                       |
 | SKIP  |        | 20T12  | 22:00  | 22:30 | Orologi vintage con Display Nixie DIY                                | Lorenzo De Luca                     |
-|       |        | 20T16  | 22:30  | 23:00 | Geodati (quasi) liberi: Hacking di Geoportali                        | Amedeo Fadini                       |
+| OK    |        | 20T16  | 22:30  | 23:00 | Geodati (quasi) liberi: Hacking di Geoportali                        | Amedeo Fadini                       |
 |       |        | 20T06  | 23:00  | 23:30 | Conseguenze e rilevamento del tampering sui messaggi WhatsApp        | Andrea Lazzarotto                   |
 |       |        | 20T18  | 23:30  | 24:00 | Come aggirare i sistemi a doppia autenticazione (phishing-ng)        | Gianfranco Ciotti                   |
 |       |        |        |        |       |                                                                      |                                     |
