@@ -30,8 +30,8 @@ SKIP = Talk saltato
 | OK    |        | 20T20  | 21:30  | 22:00 | X: il collegamento tra Openstreetmap e le analisi di reti, in Python | Fabio Lamanna                       |
 | OK    |        | 20T19  | 22:00  | 22:30 | Hardware e Software per Machine Learning                             | Davide Caminati                     |
 | OK    | OK     | 20T14  | 22:30  | 23:00 | Achieve Pareto Principle in secure code review, or die trying        | Sandro "guly" Zaccarini             |
-| OK    |        | 20T03  | 23:00  | 23:30 | Interrogare i linked open data (e Wikidata) con SPARQL               | Lorenzo Losa                        |
-| OK    |        | 20T09  | 23:30  | 24:00 | Introduzione a Power Analysis                                        | Federico "fox" Scrinzi              |
+| OK    | OK     | 20T03  | 23:00  | 23:30 | Interrogare i linked open data (e Wikidata) con SPARQL               | Lorenzo Losa                        |
+| OK    | OK     | 20T09  | 23:30  | 24:00 | Introduzione a Power Analysis                                        | Federico "fox" Scrinzi              |
 
 
 # Sabato 5 settembre
@@ -50,7 +50,7 @@ SKIP = Talk saltato
 | OK    | OK     | WOOT4  | 19:00  | 20:00 | La trappola del Business Plan: perché una buona pianificazione...    | Stefano Schiavo                     |
 |       |        |        |        |       |                                                                      |                                     |
 | FAIL  |        | 20T10  | 21:00  | 21:30 | Il fattore umano tra procedure e tecnologie                          | Yvette "vodka" Agostini             |
-|       |        | 20T11  | 21:30  | 22:00 | Libreoffice 7.0                                                      | Italo Vignoli                       |
+| OK    |        | 20T11  | 21:30  | 22:00 | Libreoffice 7.0                                                      | Italo Vignoli                       |
 | SKIP  |        | 20T12  | 22:00  | 22:30 | Orologi vintage con Display Nixie DIY                                | Lorenzo De Luca                     |
 |       |        | 20T16  | 22:30  | 23:00 | Geodati (quasi) liberi: Hacking di Geoportali                        | Amedeo Fadini                       |
 |       |        | 20T06  | 23:00  | 23:30 | Conseguenze e rilevamento del tampering sui messaggi WhatsApp        | Andrea Lazzarotto                   |
