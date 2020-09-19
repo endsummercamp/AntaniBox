@@ -30,7 +30,7 @@ SKIP = Talk saltato
 | OK    |        | 20T20  | 21:30  | 22:00 | X: il collegamento tra Openstreetmap e le analisi di reti, in Python | Fabio Lamanna                       |
 | OK    |        | 20T19  | 22:00  | 22:30 | Hardware e Software per Machine Learning                             | Davide Caminati                     |
 | OK    |        | 20T14  | 22:30  | 23:00 | Achieve Pareto Principle in secure code review, or die trying        | Sandro "guly" Zaccarini             |
-|       |        | 20T03  | 23:00  | 23:30 | Interrogare i linked open data (e Wikidata) con SPARQL               | Lorenzo Losa                        |
+| OK    |        | 20T03  | 23:00  | 23:30 | Interrogare i linked open data (e Wikidata) con SPARQL               | Lorenzo Losa                        |
 |       |        | 20T09  | 23:30  | 24:00 | Introduzione a Power Analysis                                        | Federico "fox" Scrinzi              |
 
 
