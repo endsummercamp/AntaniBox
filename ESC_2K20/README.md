@@ -54,6 +54,6 @@ SKIP = Talk saltato
 | SKIP  |        | 20T12  | 22:00  | 22:30 | Orologi vintage con Display Nixie DIY                                | Lorenzo De Luca                     |
 | OK    |        | 20T16  | 22:30  | 23:00 | Geodati (quasi) liberi: Hacking di Geoportali                        | Amedeo Fadini                       |
 | OK    |        | 20T06  | 23:00  | 23:30 | Conseguenze e rilevamento del tampering sui messaggi WhatsApp        | Andrea Lazzarotto                   |
-|       |        | 20T18  | 23:30  | 24:00 | Come aggirare i sistemi a doppia autenticazione (phishing-ng)        | Gianfranco Ciotti                   |
+| OK    |        | 20T18  | 23:30  | 24:00 | Come aggirare i sistemi a doppia autenticazione (phishing-ng)        | Gianfranco Ciotti                   |
 |       |        |        |        |       |                                                                      |                                     |
 |       |        | WOOT5  | 24:00  | 01:00 | Analisi collaborativa dell'algoritmo di Pornhub, cosa abbiamo...     | vecna                               |
