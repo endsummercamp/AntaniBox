@@ -4,7 +4,7 @@ OK = Video pubblicabile
 
 TODO = Da verificare nella sua interezza, ma controllato a salti sembra accettabile
 
-FAIL = Video da rifare
+FAIL = Problemi tecnici
 
 SKIP = Talk saltato
 
