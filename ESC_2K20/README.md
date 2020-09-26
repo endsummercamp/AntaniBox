@@ -22,16 +22,16 @@ SKIP = Talk saltato
 
 # Venerdì 4 settembre
 
-| STATO | UPLOAD | PUBLISH | CODICE | INIZIO | FINE  | TITOLO                                                               | RELATORE                            |
-|-------|--------|---------|--------|--------|-------|----------------------------------------------------------------------|-------------------------------------|
-|       |        |         | WOOT1  | 18:00  | 19:00 | A Settembre Ritorno in Palestra                                      | Alvise Giacomazzi e Luca Pellegrini |
-|       |        |         |        |        |       |                                                                      |                                     |
-| OK    | OK     | 27/09   | 20T02  | 21:00  | 21:30 | "Vota i dati"                                                        | Luca Corsato                        |
-| OK    |        |         | 20T20  | 21:30  | 22:00 | X: il collegamento tra Openstreetmap e le analisi di reti, in Python | Fabio Lamanna                       |
-| OK    |        |         | 20T19  | 22:00  | 22:30 | Hardware e Software per Machine Learning                             | Davide Caminati                     |
-| OK    | OK     |         | 20T14  | 22:30  | 23:00 | Achieve Pareto Principle in secure code review, or die trying        | Sandro "guly" Zaccarini             |
-| OK    | OK     |         | 20T03  | 23:00  | 23:30 | Interrogare i linked open data (e Wikidata) con SPARQL               | Lorenzo Losa                        |
-| OK    | OK     |         | 20T09  | 23:30  | 24:00 | Introduzione a Power Analysis                                        | Federico "fox" Scrinzi              |
+| STATO | UPLOAD | PUBLISH  | CODICE | INIZIO | FINE  | TITOLO                                                               | RELATORE                            |
+|-------|--------|----------|--------|--------|-------|----------------------------------------------------------------------|-------------------------------------|
+|       |        |          | WOOT1  | 18:00  | 19:00 | A Settembre Ritorno in Palestra                                      | Alvise Giacomazzi e Luca Pellegrini |
+|       |        |          |        |        |       |                                                                      |                                     |
+| OK    | OK     | 27/09/20 | 20T02  | 21:00  | 21:30 | "Vota i dati"                                                        | Luca Corsato                        |
+| OK    | OK     | 29/09/20 | 20T20  | 21:30  | 22:00 | X: il collegamento tra Openstreetmap e le analisi di reti, in Python | Fabio Lamanna                       |
+| OK    | OK     | 01/10/20 | 20T19  | 22:00  | 22:30 | Hardware e Software per Machine Learning                             | Davide Caminati                     |
+| OK    | OK     | 03/10/20 | 20T14  | 22:30  | 23:00 | Achieve Pareto Principle in secure code review, or die trying        | Sandro "guly" Zaccarini             |
+| OK    | OK     | 05/10/20 | 20T03  | 23:00  | 23:30 | Interrogare i linked open data (e Wikidata) con SPARQL               | Lorenzo Losa                        |
+| OK    | OK     | 07/10/20 | 20T09  | 23:30  | 24:00 | Introduzione a Power Analysis                                        | Federico "fox" Scrinzi              |
 
 
 # Sabato 5 settembre
