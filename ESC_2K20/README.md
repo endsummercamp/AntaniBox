@@ -49,7 +49,7 @@ SKIP = Talk saltato
 | OK    | OK     | 15/10/20 | 20W03  | 18:00  | 19:00 | La mia esperienza con Maltego e CaseFile                             | Claudio "CoD" Canavese              |
 | OK    | OK     | 17/10/20 | 20W04  | 19:00  | 20:00 | La trappola del Business Plan: perché una buona pianificazione...    | Stefano Schiavo                     |
 |       |        |          |        |        |       |                                                                      |                                     |
-| FAIL  |        |          | 20T10  | 21:00  | 21:30 | Il fattore umano tra procedure e tecnologie                          | Yvette "vodka" Agostini             |
+| OK    | OK     | 27/10/20 | 20T10  | 21:00  | 21:30 | Il fattore umano tra procedure e tecnologie                          | Yvette "vodka" Agostini             |
 | OK    | OK     | 19/10/20 | 20T11  | 21:30  | 22:00 | Libreoffice 7.0                                                      | Italo Vignoli                       |
 | SKIP  |        |          | 20T12  | 22:00  | 22:30 | Orologi vintage con Display Nixie DIY                                | Lorenzo De Luca                     |
 | OK    | OK     | 21/10/20 | 20T16  | 22:30  | 23:00 | Geodati (quasi) liberi: Hacking di Geoportali                        | Amedeo Fadini                       |
